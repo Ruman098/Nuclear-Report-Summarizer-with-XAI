@@ -5,6 +5,9 @@ This project uses **Transformer-based NLP models** to summarize nuclear technica
 
 Built with **Streamlit**, **Hugging Face Transformers**, and **SHAP** for transparency and interpretability.
 
+🚀 **Live Demo (Streamlit Cloud):**  
+👉 **https://nuclear-report-summarizer-with-xai.streamlit.app/**
+
 ---
 
 ## ✨ Features
